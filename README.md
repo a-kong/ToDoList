@@ -5,3 +5,7 @@
 The app also uses Java's Calendar and Date API in the GUI. 
 
 ![todolist-screenshot](docs/todolist-screenshot.png/image.jpg?raw=true)
+
+<div align="center">
+    <img src="docs/todolist-screenshot.png" width="400px"</img> 
+</div>
