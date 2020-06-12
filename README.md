@@ -4,4 +4,4 @@
 
 The app also uses Java's Calendar and Date API in the GUI. 
 
-![todolist-screenshot](https://github.com/a-kong/ToDoList/master/todolist-screenshot.png/image.jpg?raw=true)
+![todolist-screenshot](https://github.com/a-kong/ToDoList/blob/todolist-screenshot.png/image.jpg?raw=true)
